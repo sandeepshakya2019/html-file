@@ -1,0 +1,31 @@
+/*
+Selector in CSS
+	1) Tag
+	2) Class (select by .)
+	3) ID (select by #)
+
+syntax :
+	Selector {
+		property: value;
+		color:white;
+		background-color:green;
+		font-size:20px;
+		text-align:left right center justify;
+	}
+*/
+body{
+	color: white;
+	background-color: green;
+	font-size: 18px;
+}
+.main_heading_writer{
+	text-align: right;
+}
+.term{
+	font-size: 25px;
+	color: black;
+}
+.define{
+	font-size: 20px;
+	color: blue;
+}
